@@ -8,4 +8,8 @@
     <Optimize>false</Optimize>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\belma\OneDrive\Escritorio\ING TEZO III\UNIDAD 1\EJERCICIO CLASE\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>

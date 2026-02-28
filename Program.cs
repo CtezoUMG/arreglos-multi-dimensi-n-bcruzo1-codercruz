@@ -22,6 +22,7 @@ for (int i = 1; i < numeros.Length; i++)
 {
     if (numeros[i] > maximo)
     {
+
         maximo = numeros[i];
     }
 }
